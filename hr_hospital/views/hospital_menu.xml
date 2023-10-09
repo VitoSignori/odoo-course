@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+
+    <menuitem id="hr_hospital_menu_root"
+              web_icon = "hr_hospital,static/description/icon.png"
+              name="Hospital" sequence="10"/>
+
+    <menuitem id="hr_hospital_catalog_menu"
+              parent="hr_hospital_menu_root"
+              name="Catalog" sequence="100"/>
+
+ </odoo>

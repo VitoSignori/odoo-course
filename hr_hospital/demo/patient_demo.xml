@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+      <record id="patient0" model="hr.hospital.patient" forcecreate="True">
+          <field name="name">Ivanov Ivan</field>
+      </record>
+      <record id="patient1" model="hr.hospital.patient" forcecreate="True">
+          <field name="name">Petov Peter</field>
+      </record>
+      <record id="patient2" model="hr.hospital.patient" forcecreate="True">
+          <field name="name">Sidorov Fedot</field>
+      </record>
+</odoo>
